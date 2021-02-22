@@ -1,0 +1,25 @@
+Siberian Tiger:Panthera tigris altaica:280:30:46:5:85:Tigers can see 6 times better at night than humans.
+Cheetah:Acinonyx jubatus:45:70:34:2:63:The cheetah is the fastest land animal on earth.
+King Cobra:Ophiophagus hannah:9:17:39:4:95:The venom they deliver in a single bite can kill 20 people or an elephant.
+Black Mamba:Dendroaspis polylepis:1:13:41:7:82:Their venom can kill within 20 minutes, unless and antivenom is taken.
+Polar Bear:Ursus maritimus:600:25:43:1:81:They are the world's largest land predator.
+Komodo Dragon:Varanus komodoensis:150:11:41:3:79:Their existence was unknown to humans until about 100 years ago.
+Saltwater Crocodile:Crocodylus porosus:453:17:50:7:88:Crocodiles can slow their heartbeat down to two beats per minute.
+Praying Mantis:Orthodera novaezealandine:0.02:0.22:41:5:39:They can turn their heads up to 180 degrees in search of insects.
+Leopard:Panthera pardus:65:40:42:3:59:Cubs leave their mother when they are two years old and begin life on their own.
+Grizzly Bear:Ursus arctos:390:30:31:5:78:Their long claws are about the length of a human finger.
+Scorpion:Scorpius:0.03:1:44:7:39:Some scorpions have up to 10 eyes, though they can't see very well.
+Bald Eagle:Haliaeetus leucocephalus:5:150:36:8:76:The American Bald Eagle is the United States national symbol.
+Killer Whale:Orcinus orca:5443:25:47:1:91:Females are called cows whilst males are called bulls.
+Black Widow Spider:Latrodectus hesperus:0.001:1.5:40:3:68:Only females carry the deadly venom.
+Jaguar:Panthera onca:75:27:36:4:46:The Jaguar is the largest cat in the Western Hemisphere.
+Tarantula:Brachypelma smithi:0.6:0.25:45:4:42:A fall can be fatal to a tarantula as they are very thin-skinned.
+Lion:Panthera leo:155:50:37:2:79:Lions are born blind and do not open their eyes for a couple of weeks.
+Great White Shark:Carcharodan charcharias:2268:25:48:2:95:After eating a seal, the great white can last a month without another meal.
+Golden Eagle:Aquila chrysaetos:6:175:45:8:84:The Golden Eagle is the national bird of Mexico.
+Tiger Shark:Galeocerdo cuvier:510:20:43:3:76:They will eat absolutely anything.
+Piranha:Pygocentrus Nattereri:0.4:20:25:4:73:Due to their ferocity, they even take bites out of each other when feeding.
+Grey Wolf:Canis Lupis:41:30:23:4:58:Each wolf has a distinctive howl.
+Anaconda:Eunectes murinus:227:7:27:2:73:Anacondas give birth to live young, around 24-35 at a time.
+American alligator:Alligator mississippiensis:453:15:47:8:75:American alligators may live for about 50 years in the wild.
+Arctic Fox:Alopex lagopus:6:30:45:1:49:They shed their fur at least twice a year.
